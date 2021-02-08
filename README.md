@@ -10,6 +10,4 @@ Para realizar dicho proyecto he pensado en usar las siguientes herramientas que 
  
  Diseño de la aplicación:
  
- https://imgur.com/ydsXz8f
- 
-![Alt text](C:\Users\jesuk\OneDrive\Imágenes=true "Title")
+https://www.figma.com/file/QUfb2b9O1RidEzWIhs3Y1Z/Trabajo?node-id=0%3A1
