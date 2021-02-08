@@ -9,5 +9,4 @@ Para realizar dicho proyecto he pensado en usar las siguientes herramientas que 
 -Express y Node js.
  
  Diseño de la aplicación:
- 
-
+ https://www.figma.com/file/QUfb2b9O1RidEzWIhs3Y1Z/Trabajo?node-id=0%3A1
